@@ -1,2 +1,4 @@
 MONGODB_HOST: mongodb.gopi29.fun
 REDIS_HOST: redis.gopi29.fun
+CATALOGUE_HOST: catalogue.gopi29.fun
+
