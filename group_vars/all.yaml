@@ -1,4 +1,9 @@
 MONGODB_HOST: mongodb.gopi29.fun
 REDIS_HOST: redis.gopi29.fun
 CATALOGUE_HOST: catalogue.gopi29.fun
-
+CART_HOST: cart.gopi29.fun
+USER_HOST: user.gopi29.fun
+RABBITMQ_HOST: rabbitmq.gopi29.fun
+MYSQL_HOST: mysql.gopi29.fun
+SHIPPING_HOST: shipping.gopi29.fun
+PAYMENT_HOST: payment.gopi29.fun
